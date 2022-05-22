@@ -7,7 +7,7 @@ export default siteConfig({
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
-<link rel="icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico"> src="/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F375959a3-76c8-4c33-b5a4-dc4ccd6dced8%2FShopify_BBNotionTemplate_Block_Home.jpg?table=block&id=694aa8a7-067d-42e4-91dd-404465180761&spaceId=44cc8883-cbb0-4415-a697-87b5dec9e099&width=2000&userId=3292394f-3f54-49e0-83ac-f611e830334a&cache=v2
   
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
