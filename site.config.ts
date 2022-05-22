@@ -7,7 +7,7 @@ export default siteConfig({
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
-<link rel="icon" type="image/x-icon" href="/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbfc2311-553d-4bcf-8e01-de029105cddd%2FShopify_BBNotionTemplate_Icon.jpg?table=block&id=50d7ac8d-9d43-485e-b06d-0c94d8084929&spaceId=44cc8883-cbb0-4415-a697-87b5dec9e099&width=250&userId=3292394f-3f54-49e0-83ac-f611e830334a&cache=v2" />
+<link rel="icon" type="image/x-icon" href="src="/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Ffbfc2311-553d-4bcf-8e01-de029105cddd%2FShopify_BBNotionTemplate_Icon.jpg?table=block&id=50d7ac8d-9d43-485e-b06d-0c94d8084929&spaceId=44cc8883-cbb0-4415-a697-87b5dec9e099&width=250&userId=3292394f-3f54-49e0-83ac-f611e830334a&cache=v2"
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
